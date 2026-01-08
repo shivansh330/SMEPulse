@@ -61,10 +61,10 @@ Smart contract-driven payment distribution ensures investors receive their funds
 
 | Contract | Address | Description |
 |----------|---------|-------------|
-| **SMEPulse** | [`0x54f58D21fF4967726b9D8fA96d52c04D3346097a`](https://sepolia.mantlescan.xyz/address/0x54f58D21fF4967726b9D8fA96d52c04D3346097a) | Core NFT contract for invoice tokenization |
-| **MintInvoiceAction** | [`0x9bd563aD53a3da82F251b368a775dE9E2BbC014d`](https://sepolia.mantlescan.xyz/address/0x9bd563aD53a3da82F251b368a775dE9E2BbC014d) | Contract for minting invoice NFTs |
-| **PurchaseInvoiceAction** | [`0x2d60D7E5Cf666143F2daA5ee84D5d4bd3632d229`](https://sepolia.mantlescan.xyz/address/0x2d60D7E5Cf666143F2daA5ee84D5d4bd3632d229) | Contract for purchasing invoice NFTs |
-| **SettleInvoiceAction** | [`0x8584a8C819Da80ceDa204b4BAC40123B909D2148`](https://sepolia.mantlescan.xyz/address/0x8584a8C819Da80ceDa204b4BAC40123B909D2148) | Contract for settling invoice payments |
+| **SMEPulse** | [`0x13B1AA8fD3B12bf00103D3cF86e42F46F7933881`](https://sepolia.mantlescan.xyz/address/0x13B1AA8fD3B12bf00103D3cF86e42F46F7933881) | Core NFT contract for invoice tokenization |
+| **MintInvoiceAction** | [`0x8d91b9841511dD00af35407382F3208a54bEDd2E`](https://sepolia.mantlescan.xyz/address/0x8d91b9841511dD00af35407382F3208a54bEDd2E) | Contract for minting invoice NFTs |
+| **PurchaseInvoiceAction** | [`0x9C289F6933fa06651cd0496af2a17023C8A358DE`](https://sepolia.mantlescan.xyz/address/0x9C289F6933fa06651cd0496af2a17023C8A358DE) | Contract for purchasing invoice NFTs |
+| **SettleInvoiceAction** | [`0x3D32AD922dBeBa2008B63A5e9A3fdAE9c1DbFbB8`](https://sepolia.mantlescan.xyz/address/0x3D32AD922dBeBa2008B63A5e9A3fdAE9c1DbFbB8) | Contract for settling invoice payments |
 
 > **Note**: Update these addresses in your `.env` file after deployment.
 
