@@ -48,7 +48,7 @@ Smart contract-driven payment distribution ensures investors receive their funds
 
 ## 🚀 Live Demo & Links
 
-- **Latest Deployment**: [https://smepulse.vercel.app](https://smepulse.vercel.app)
+- **Latest Deployment**: [https://smepulse.onrender.com/](https://smepulse.onrender.com/)
 
 ## ⛓️ Smart Contract on Mantle Sepolia
 
@@ -95,65 +95,6 @@ Mantle is the perfect layer-2 blockchain for SMEPulse:
 - **Vite**: Fast build tool and dev server
 - **Ethers.js v6**: Web3 library for blockchain interactions
 - **Tailwind CSS**: Utility-first styling framework
-<!-- 
-## ⚙️ Getting Started (Local Setup)
-
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
-- MetaMask browser extension
-- Mantle Sepolia tokens (from [Mantle Faucet](https://faucet.sepolia.mantle.xyz/))
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/masumo/invoice-flow.git
-cd invoice-flow
-```
-
-### 2. Install Dependencies
-```bash
-npm install
-```
-
-### 3. Environment Setup
-Copy the example environment file and configure:
-```bash
-cp .env.example .env
-```
-
-Edit `.env` with your values:
-```env
-PRIVATE_KEY=your_wallet_private_key_here
-VITE_CONTRACT_ADDRESS=deployed_contract_address
-VITE_RPC_URL=https://rpc.sepolia.mantle.xyz
-VITE_CHAIN_ID=5003
-VITE_NETWORK_NAME=Mantle Sepolia
-```
-
-### 4. Deploy Smart Contract (Optional)
-If you want to deploy your own contract:
-```bash
-# Compile contracts
-npx hardhat compile
-
-# Deploy to Mantle Sepolia
-npx hardhat run scripts/deploy-testnet.js --network mantleSepolia
-```
-
-### 5. Start Development Server
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`
-
-### 6. Configure MetaMask
-Add Mantle Sepolia to MetaMask:
-- **Network Name**: Mantle Sepolia
-- **RPC URL**: https://rpc.sepolia.mantle.xyz
-- **Chain ID**: 5003
-- **Currency Symbol**: MNT
-- **Block Explorer**: https://sepolia.mantlescan.xyz -->
 
 ## 📱 Usage Guide
 
@@ -172,6 +113,5 @@ Add Mantle Sepolia to MetaMask:
 4. **Purchase Invoices**: Buy invoice NFTs at discounted prices
 5. **Track Portfolio**: Monitor your investments and returns
 6. **Collect Returns**: Receive full invoice value when clients pay
-
 
 **Empowering global trade through decentralized finance on Mantle Network**
